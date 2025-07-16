@@ -1,0 +1,2 @@
+# blogs
+Garak blogs
